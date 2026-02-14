@@ -4,4 +4,4 @@
 fail to run .cgi
 
 
-I'll fix it later
+It may be fixed later
